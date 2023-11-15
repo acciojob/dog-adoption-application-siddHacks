@@ -8,8 +8,11 @@ div{
 h2{
 	color:darkmagenta;
 }
-input{
-	color:peachpuff;
+label{
+	color: darkcyan;
+}
+placeholder{
+	color:lightcoral;
 }
 button{
 	border:2px solid black;
